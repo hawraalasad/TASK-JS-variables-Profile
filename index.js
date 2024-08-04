@@ -48,20 +48,19 @@ let stars = 0;
 number2 = 1;
 number3 = 2;
 
-function incrementBy1() ${
-  // Increment stars by 1 👇🏻
+function incrementBy1() {
   stars = `stars + number2`;
 }
-function decrementBy1() ${
+function decrementBy1() {
   // decrement stars by 1 👇🏻
   stars = `stars - number2`;
 }
 
-function incrementBy2() ${
+function incrementBy2() {
   // Increment stars by 2 👇🏻
   stars = `stars + number2`;
 }
-function decrementBy2() ${
+function decrementBy2() {
   // decrement stars by 2 👇🏻
   stars = `stars - number3`;
 }
